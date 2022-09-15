@@ -127,7 +127,7 @@ main section:nth-child(2) {
 
 main section:nth-child(3) {
     animation-delay: .8s;
-}
+} 
 
 @keyframes fromTop {
     from {
@@ -152,3 +152,4 @@ main section:nth-child(3) {
         transform: translateY(0);
     }
 }
+/* nao consigo abrir o git */
